@@ -3,4 +3,8 @@ a.komunikasi daring sinkron
 b.komunikasi daring asinkron
 -email
 c.Github
+-membuat akun
+-membuat repository
+-membuat file baru
+-membuat commit
 d.Git
