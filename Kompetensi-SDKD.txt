@@ -1,10 +1,11 @@
-a.komunikasi daring sinkron
+a.komunikasi berani sinkron
 -line
-b.komunikasi daring asinkron
+b.komunikasi berani asinkron
 -email
 c.Github
 -membuat akun
 -membuat repository
 -membuat file baru
--membuat commit
-d.Git
+-membuat komit
+D.Git
+-Belum
