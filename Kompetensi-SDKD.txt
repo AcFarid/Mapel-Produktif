@@ -4,6 +4,8 @@ b.komunikasi daring asinkron
 -email
 c.Github
 -membuat akun
--membuat repository (File baru dan commit)
+-membuat repository
+-membuat file baru
+-membuat commit
 d.Git
 -belum
