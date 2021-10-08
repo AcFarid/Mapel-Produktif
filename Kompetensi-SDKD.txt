@@ -1,4 +1,4 @@
 a.komunikasi daring sinkron
+-line
 b.komunikasi daring asinkron
-c.Github
-d.Git
+-email
